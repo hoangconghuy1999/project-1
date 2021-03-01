@@ -15,5 +15,6 @@ initRouter(app);
 // })
 
 app.listen(3000, function() {
-    console.log("ddang ket noi tai cong 3000");
-})
+        console.log("ddang ket noi tai cong 3000");
+    })
+    // ll
